@@ -1,0 +1,7 @@
+[show]
+[image,npc,hero01,0,-400,1,spFadeIn_1000]
+我進入地下城了。[lr][r]
+讓我破除障礙往下一關移動，拯救公主。[w]
+[remove,npc,spFadeOut_1000]
+[hide]
+
